@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background-color: red;
+  color: white;
+  height: 10rem;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.nav1 {
+  background-color: blue;
+  color: white;
+}
+
+.ikinci_h1 {
+  background-color: yellow;
+  width: 20%;
+  height: 50rem;
+  border: 10px solid red;
+  font-size: 1rem;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding-top: 3rem;
+}
+
+.resim {
+  background-image: url(./monalisa.jpeg);
+  width: 80%;
+  height: 50rem;
+  background-size: cover;
+  box-sizing: border-box;
+  background-position: top center;
+  /* float: right; */
+  padding-top: 7rem;
+  color: red;
+}
+
+.ikinci_h2 {
+  background-color: gray;
+  height: 7rem;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.div1 {
+  display: flex;
+  width: 100%;
+}
